@@ -1,1 +1,3 @@
 # edhDecks
+
+The purpose of this repository is to keep track of cards for the MTG decks I own, I don't have many but I am rather fond of the ones I do have. There is nothing special here, but it will allow me to keep track of changes much easier than I could have done otherwise. In addition to being able to recreate a deck should it happen to get lost or stolen, this will also allow me to roll back any changes on decks that I find to be too strong or weak for the playgroup I'm in, even trades can be kept track of in this method.  As with any other game, it's only fun if the group is having fun.
